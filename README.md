@@ -67,21 +67,10 @@ Keystroke Dynamics Authentication is an advanced security solution for fintech a
    streamlit run streamlit_app.py
    ```
 
----
 
-## 👥 Team
-**Team Name:** Alpha Syndicate  
-**College:** BFCET Bathinda
-
----
-
-## 📷 Screenshots
-> ![App Screenshot](screenshot.png)
-
----
 
 ## 📬 Contact
-For queries or collaboration, reach out at: [your-email@example.com]
+For queries or collaboration, reach out at: [lovepreetindora00@gmail.com]
 
 ---
 
